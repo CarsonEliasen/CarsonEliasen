@@ -43,19 +43,14 @@ I developed the pivot grid for my introduction to design thinkning class to help
 
 # Art Gallery
 
-<img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/Scaffolding.png?raw=true" width = "500" style = "margin: 25px 25px 25px 25px" align = "right">
+<img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/tensegrity_structures.png?raw=true" width = "545" style = "margin: 25px 25px 25px 25px" align = "left"> <img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/Scaffolding.png?raw=true" height = "545" style = "margin: 25px 25px 25px 25px" align = "right">
+
+<br></br>
+
+<img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/Everyday_Living.png?raw=true" style = "margin: 25px 25px 25px 25px" align = "center">
+
+<img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/steamed_hams.png?raw=true" height = "395" style = "margin: 25px 25px 25px 25px" align = "left"> <img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/ruins_hills.png?raw=true" height = "360" style = "margin: 25px 25px 25px 25px" align = "right">
 
 
-<img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/tensegrity_structures.png?raw=true" width = "500" style = "margin: 25px 25px 25px 25px" align = "left">
-
-
-<img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/ruins_hills.png?raw=true" width = "750" style = "margin: 25px 25px 25px 25px" align = "right">
-
-
-<img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/steamed_hams.png?raw=true" width = "400" style = "margin: 25px 25px 25px 25px" align = "left">
-
-
-<img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/Everyday_Living.png?raw=true" width = "600" style = "margin: 25px 25px 25px 25px" align = "right">
-
-<img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/SatisfiedButNotHappy.png?raw=true" width = "800" style = "margin: 25px 25px 25px 25px" align = "center">
+<img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/SatisfiedButNotHappy.png?raw=true" style = "margin: 25px 25px 25px 25px" align = "center">
 
