@@ -8,7 +8,7 @@ I am finishing up my undergrad in psychology with a minor in applied data scienc
 ### Summary
 Fiefdom is my early access medieval city management game. Keeping your subjects content becomes a lot more difficult when you have to keep the ambitions of your court in check. You manage an ever changing supply of resources like food, money, stability, and more!
 
-### Check out the Steam page for more information [here](https://store.steampowered.com/app/1994110/Fiefdom/).
+#### Check out the Steam page for more information [here](https://store.steampowered.com/app/1994110/Fiefdom/).
 
 ### Design Philosophy
 While developing Fiefdom, I want to really focus on the player experience. Of course I have a million and half ideas about how I would develop Fiefdom, but a wide and diverse player base will be able to tell me what is actually enjoyable for the average player. Overall, I aim to bring my human-centered design experience to the forfront when working on Fiefdom.
