@@ -9,7 +9,7 @@ I am finishing up my undergrad in psychology with a minor in applied data scienc
 <img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/mybestsparkle.png?raw=true" width = "200" style = "margin: 25px 25px 25px 25px" align = "left">
 
 ### Summary
-Fiefdom is my early access medieval city management game. Keeping your subjects content becomes a lot more difficult when you have to keep the ambitions of your court in check. You manage an ever changing supply of resources like food, money, stability, and more!
+Fiefdom is my early access medieval city management game. Keeping your subjects content becomes a lot more difficult when you have to keep the ambitions of your court in check. Players must manage an ever changing supply of resources like food, money, stability, and more.
 
 #### Check out the Steam page for more information [here](https://store.steampowered.com/app/1994110/Fiefdom/).
 
@@ -33,9 +33,9 @@ I've been in design thinking education for three years, where I started as a tea
 
 <img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/RDC-2022-PivotGrid-v2.png?raw=true" width = "350" style = "margin: 25px 25px 25px 25px" align = "left">
 
-### Pivot Grid 
+### The Pivot Grid 
 
-I developed the pivot grid for my introduction to design thinkning class to help them make unbiased decisions about pivoting their problems. The first step is to collect data about if people are actually experiencing an identified problem. A key aspect of this data that needs to be gathered is how passionate/engaged people are with the issue being discussed. Once the data is collected, it can be condensed into data themes. The themes *then* get placed onto the grid, which axes are interviewee engagement and relevance to identified problem. Depending on where the majority of themes lie on the grid, the teams can then make an informed decision on pivoting or reframing their problem.
+I developed the pivot grid for my introduction to design thinkning class to help them make unbiased decisions about pivoting their problems. The first step is to collect data about if people are actually experiencing an identified problem. A key aspect of this data that needs to be gathered is how passionate/engaged people are with the issue being discussed. Once the data is collected, it can be condensed into data themes. The themes *then* get placed onto the grid, which axes are labeled interviewee engagement and relevance to identified problem. Depending on where the majority of themes lie on the grid, the teams can then make an informed decision on pivoting or reframing their problem.
 
   
 ---
