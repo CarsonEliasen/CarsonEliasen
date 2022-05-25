@@ -1,5 +1,5 @@
 ![sunset_banner](/assets/images/sunset_banner.png)
-## About Me <img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/headshot_RDC.jpg?raw=true" width = "250" height  = "250" align = "right">
+## About Me <img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/headshot_RDC.jpg?raw=true" width = "250" height  = "250" align = "right" style = "margin: 25px 25px 25px 25px">
 My name is Carson Eliasen and I am a hobby game developer and design thinking instructor from Fort Collins, CO. My first game Fiefdom is out for early access now on Steam! 
 
 I am finishing up my undergrad in psychology with a minor in applied data science. I've worked a lot in design thinking and am looking to explore designing for human-computer interaction. Eventually, I'd love to get my graduate degree in computer graphics processing while also bolstering my design thinking philosophy.
@@ -21,5 +21,6 @@ While developing Fiefdom, I want to really focus on the player experience. Of co
 - ***Other Areas of Improvement***: Control settings, accessibility settings, improving efficiency, saving and loading fiefs, resource/population graphs over time, steam achievements, family tree portraits, and more!
 
 
-
-![scaffolding](/assets/images/Scaffolding.png)
+<p align = "center">
+<img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/Scaffolding.png?raw=true" width = "500" style = "margin: 25px 25px 25px 25px">
+</p>
