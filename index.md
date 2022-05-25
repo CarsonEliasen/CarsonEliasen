@@ -4,7 +4,6 @@ My name is Carson Eliasen and I am a hobby game developer and design thinking in
 
 I am finishing up my undergrad in psychology with a minor in applied data science. I've worked a lot in design thinking and am looking to explore designing for human-computer interaction. Eventually, I'd love to get my graduate degree in computer graphics processing while also bolstering my design thinking philosophy.
 
-
 ## Fiefdom
 <img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/mybestsparkle.png?raw=true" width = "200" style = "margin: 25px 25px 25px 25px" align = "left">
 
