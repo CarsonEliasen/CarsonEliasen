@@ -1,4 +1,5 @@
-## About Me
+![sunset_banner](/assets/images/sunset_banner.png)
+## About Me <img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/headshot_RDC.jpg?raw=true" width = "250" height  = "250" align = "right" style = "margin: 25px 25px 25px 25px">
 My name is Carson Eliasen and I am a hobby game developer and design thinking instructor from Fort Collins, CO. My first game Fiefdom is out for early access now on Steam! 
 
 I am finishing up my undergrad in psychology with a minor in applied data science. I've worked a lot in design thinking and am looking to explore designing for human-computer interaction. Eventually, I'd love to get my graduate degree in computer graphics processing while also bolstering my design thinking philosophy.
@@ -7,7 +8,7 @@ I am finishing up my undergrad in psychology with a minor in applied data scienc
 ### Summary
 Fiefdom is my early access medieval city management game. Keeping your subjects content becomes a lot more difficult when you have to keep the ambitions of your court in check. You manage an ever changing supply of resources like food, money, stability, and more!
 
-### Check out the Steam page for more information [here](https://store.steampowered.com/app/1994110/Fiefdom/).
+#### Check out the Steam page for more information [here](https://store.steampowered.com/app/1994110/Fiefdom/).
 
 ### Design Philosophy
 While developing Fiefdom, I want to really focus on the player experience. Of course I have a million and half ideas about how I would develop Fiefdom, but a wide and diverse player base will be able to tell me what is actually enjoyable for the average player. Overall, I aim to bring my human-centered design experience to the forfront when working on Fiefdom.
@@ -19,3 +20,7 @@ While developing Fiefdom, I want to really focus on the player experience. Of co
 - ***Magic Update***: This will add a magic system that is intertwined with other aspects of the game, adding more depth and customizability. No estimates for release date yet.
 - ***Other Areas of Improvement***: Control settings, accessibility settings, improving efficiency, saving and loading fiefs, resource/population graphs over time, steam achievements, family tree portraits, and more!
 
+
+<p align = "center">
+<img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/Scaffolding.png?raw=true" width = "500" style = "margin: 25px 25px 25px 25px">
+</p>
