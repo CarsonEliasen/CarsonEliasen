@@ -1,4 +1,4 @@
-### My name is Carson Eliasen and I am a hobby game developer from Fort Collins, CO. 
+### My name is Carson Eliasen and I am a hobby game developer and design thinking instructor from Fort Collins, CO. 
 ### My first game 🏰 Fiefdom 🏰 is out for early access now on Steam! 
 ##
 ### I am finishing up my undergrad in psychology with a minor in applied data science
