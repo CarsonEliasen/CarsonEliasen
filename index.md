@@ -26,6 +26,17 @@ While developing Fiefdom, I want to really focus on the player experience. Of co
 <img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/ZoomShot.PNG?raw=true" width = "600" style = "margin: 25px 25px 25px 25px">
 </p>
 
+## Harmony
+
+Harmony is a two player board game I developed in the summer of 2019. It has been described as a mix between chess and connect 4. In the game, players try and make a pattern using both their pieces and their opponent's pieces on the board consisting of concentric circles. On their turn, a player can make 2 moves consisting of their pieces or 1 move consisting of their opponent's pieces. A full rulebook can be found [here](https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/documents/How%20to%20Play%20Harmony.pdf).
+
+<p align = "center">
+<img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/Harmony/light_sun.png?raw=true" width = "100" style = "margin: 25px 25px 25px 25px">
+<img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/Harmony/light_moon.png?raw=true" width = "100" style = "margin: 25px 25px 25px 25px">
+<img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/Harmony/dark_sun.png?raw=true" width = "100" style = "margin: 25px 25px 25px 25px">
+<img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/Harmony/dark_moon.png?raw=true" width = "100" style = "margin: 25px 25px 25px 25px">
+</p>
+
 ## Design Thinking Experience
 
 ### Background 
@@ -35,7 +46,15 @@ I've been in design thinking education for three years, where I started as a tea
 
 ### The Pivot Grid 
 
-I developed the pivot grid for my introduction to design thinkning class to help them make unbiased decisions about pivoting their problems. The first step is to collect data about if people are actually experiencing an identified problem. A key aspect of this data that needs to be gathered is how passionate/engaged people are with the issue being discussed. Once the data is collected, it can be condensed into data themes. The themes *then* get placed onto the grid, which axes are labeled interviewee engagement and relevance to identified problem. Depending on where the majority of themes lie on the grid, the teams can then make an informed decision on pivoting or reframing their problem.
+I developed the pivot grid for my introduction to design thinking class to help them make unbiased decisions about pivoting their problems. The first step is to collect data about if people are actually experiencing an identified problem. A key aspect of this data that needs to be gathered is how passionate/engaged people are with the issue being discussed. Once the data is collected, it can be condensed into data themes. The themes *then* get placed onto the grid, which axes are labeled interviewee engagement and relevance to identified problem. Depending on where the majority of themes lie on the grid, the teams can then make an informed decision on pivoting or reframing their problem.
+
+<br></br>
+
+<img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/WhyTree.png?raw=true" height = "300" style = "margin: 25px 25px 25px 25px" align = "right">
+
+### The Why Tree
+
+"The Why Tree" is a tool I am currently developing as a simplified version of the fishbone diagram discussed [here](https://asq.org/quality-resources/fishbone). To use the why tree, users write their assumed problem down at the top of a piece of paper. Then, they think of two potential causes for that problem. For each of those two causes, users then think of two reasons for *why* that is an issue. The top level, what was thought to be the original problem, is labeled as a symptom of the actual problem, which is the level below. The for reasons below that level are the user's motivators, and are often good places to start ideating for stakeholders and/or archetypes.
 
   
 ---
