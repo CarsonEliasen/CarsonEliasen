@@ -27,9 +27,35 @@ While developing Fiefdom, I want to really focus on the player experience. Of co
 </p>
 
 ## Design Thinking Experience
+
 ### Background 
-I have been working in design thinking education for 3 years, developing my own tools for 1 and a half years. I originally started
+I've been in design thinking education for three years, where I started as a teaching assisstant. As I grew in the program, I was able to start developing my own tools and refining them through student feedback. Right now, I'm working on developing k12 workshops for schools in the area to start experiencing design thinking early in their acedemic career.
+
+<img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/RDC-2022-PivotGrid-v2.png?raw=true" width = "350" style = "margin: 25px 25px 25px 25px" align = "left">
+
+### Pivot Grid 
+
+I developed the pivot grid for my introduction to design thinkning class to help them make unbiased decisions about pivoting their problems. The first step is to collect data about if people are actually experiencing an identified problem. A key aspect of this data that needs to be gathered is how passionate/engaged people are with the issue being discussed. Once the data is collected, it can be condensed into data themes. The themes *then* get placed onto the grid, which axes are interviewee engagement and relevance to identified problem. Depending on where the majority of themes lie on the grid, the teams can then make an informed decision on pivoting or reframing their problem.
+
+  
 ---
-<p align = "center">
-<img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/Scaffolding.png?raw=true" width = "500" style = "margin: 25px 25px 25px 25px">
-</p>
+<br></br>
+
+# Art Gallery
+
+<img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/Scaffolding.png?raw=true" width = "500" style = "margin: 25px 25px 25px 25px" align = "right">
+
+
+<img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/tensegrity_structures.png?raw=true" width = "500" style = "margin: 25px 25px 25px 25px" align = "left">
+
+
+<img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/ruins_hills.png?raw=true" width = "750" style = "margin: 25px 25px 25px 25px" align = "right">
+
+
+<img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/steamed_hams.png?raw=true" width = "400" style = "margin: 25px 25px 25px 25px" align = "left">
+
+
+<img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/Everyday_Living.png?raw=true" width = "600" style = "margin: 25px 25px 25px 25px" align = "right">
+
+<img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/SatisfiedButNotHappy.png?raw=true" width = "800" style = "margin: 25px 25px 25px 25px" align = "center">
+
