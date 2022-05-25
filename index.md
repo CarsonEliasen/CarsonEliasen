@@ -40,7 +40,7 @@ Harmony is a two player board game I developed in the summer of 2019. It has bee
 ## Design Thinking Experience
 
 ### Background 
-I've been in design thinking education for three years, where I started as a teaching assisstant. As I grew in the program, I was able to start developing my own tools and refining them through student feedback. Right now, I'm working on developing k12 workshops for schools in the area to start experiencing design thinking early in their acedemic career.
+I've been in design thinking education for three years, where I started as a teaching assisstant. As I grew in the program, I was able to start developing my own tools and refining them through student feedback. Right now, I'm working on developing k12 workshops for students attending schools in the area to start experiencing design thinking early in their acedemic career.
 
 <img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/RDC-2022-PivotGrid-v2.png?raw=true" width = "350" style = "margin: 25px 25px 25px 25px" align = "left">
 
