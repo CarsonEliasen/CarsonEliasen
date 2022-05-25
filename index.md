@@ -1,8 +1,8 @@
 ![sunset_banner](/assets/images/sunset_banner.png)
 ## About Me <img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/headshot_RDC.jpg?raw=true" width = "250" height  = "250" align = "right" style = "margin: 25px 25px 25px 25px">
-My name is Carson Eliasen and I am a hobby game developer and design thinking instructor from Fort Collins, CO. My first game Fiefdom is out for early access now on Steam!
+My name is Carson Eliasen and I am a hobby game developer and design thinking educator from Fort Collins, CO. My first game Fiefdom is out for early access now on Steam!
 
-I am finishing up my undergrad in psychology with a minor in applied data science. I've worked for 3 years in design thinking education and am looking to explore designing for human-computer interaction. Eventually, I'd love to get my graduate degree in computer graphics processing while also bolstering my design thinking philosophy. Generally I'm a dynamic problem solver that loves to dip my cup into as many disciplines as I can, and then integrate them all together.
+I am finishing up my undergrad in psychology with a minor in applied data science. I've worked for 3 years in design thinking education and am looking to explore designing for human-computer interaction. Eventually, I'd love to get my graduate degree in computer graphics processing while also bolstering my design thinking background. Generally I'm a dynamic problem solver that loves to dip my cup into as many disciplines as I can, and then integrate them all together.
 
 ## Fiefdom
 <img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/mybestsparkle.png?raw=true" width = "200" style = "margin: 25px 25px 25px 25px" align = "left">
@@ -13,7 +13,7 @@ Fiefdom is my early access medieval city management game. Keeping your subjects 
 #### Check out the Steam page for more information [here](https://store.steampowered.com/app/1994110/Fiefdom/).
 
 ### Design Philosophy
-While developing Fiefdom, I want to really focus on the player experience. Of course I have a million and half ideas about how I would develop Fiefdom, but a wide and diverse player base will be able to tell me what is actually enjoyable for the average player. Overall, I aim to bring my human-centered design experience to the forfront when working on Fiefdom.
+While developing Fiefdom, I want to really focus on the player experience. Of course I have a million and half ideas about how I would develop Fiefdom, but a wide and diverse player base will be able to tell me what is actually enjoyable for the average player. Overall, I aim to bring my human-centered design experience to the forfront when working on Fiefdom. This means doing several rounds of alpha testing and getting early access out as soon as possible.
 
 ### Future Updates
 - ***Wildlife Update***: This will aim to make the area surrounding your fief feel more alive and also make you feel like you can have a more direct impact on the local fauna. Included with this update will also be a weather revamp to make seasons feel more unique. We are already developing this and should be released by the start of Q4 2022!
@@ -27,7 +27,7 @@ While developing Fiefdom, I want to really focus on the player experience. Of co
 
 ## Harmony
 
-Harmony is a two player board game I developed in the summer of 2019. It has been described as a mix between chess and connect 4. While designing this game, I utilized a rapid prototyping approach to test and refine it to where it is today. In the game, players try and make a pattern using both their pieces and their opponent's pieces on the board consisting of concentric circles. On their turn, a player can make 2 moves consisting of their pieces or 1 move consisting of their opponent's pieces. A full rulebook can be found [here](https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/documents/How%20to%20Play%20Harmony.pdf).
+Harmony is a two player board game I developed in the summer of 2019. It has been described by players as a mix between chess and connect 4. While designing this game, I utilized a rapid prototyping approach to test and refine it to where it is today. In the game, players try and make a pattern using both their pieces and their opponent's pieces on the board consisting of concentric circles. On their turn, a player can make 2 moves consisting of their pieces or 1 move consisting of their opponent's pieces. A full rulebook can be found [here](https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/documents/How%20to%20Play%20Harmony.pdf).
 
 <p align = "center">
 <img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/Harmony/light_sun.png?raw=true" width = "100" style = "margin: 25px 25px 25px 25px">
