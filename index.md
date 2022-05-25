@@ -4,7 +4,10 @@ My name is Carson Eliasen and I am a hobby game developer and design thinking in
 
 I am finishing up my undergrad in psychology with a minor in applied data science. I've worked a lot in design thinking and am looking to explore designing for human-computer interaction. Eventually, I'd love to get my graduate degree in computer graphics processing while also bolstering my design thinking philosophy.
 
-## Fiefdom 🏰
+
+## Fiefdom
+<img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/mybestsparkle.png?raw=true" width = "200" style = "margin: 25px 25px 25px 25px" align = "left">
+
 ### Summary
 Fiefdom is my early access medieval city management game. Keeping your subjects content becomes a lot more difficult when you have to keep the ambitions of your court in check. You manage an ever changing supply of resources like food, money, stability, and more!
 
@@ -19,8 +22,14 @@ While developing Fiefdom, I want to really focus on the player experience. Of co
 - ***Adventure Update***: This update will focus on expanding the family tree system that’s already in place by allowing family members to go on adventures to earn glory or disgrace themselves trying. Minigames may also be incorporated within this system to allow for more engaging gameplay during downtime. No estimates for release date yet.
 - ***Magic Update***: This will add a magic system that is intertwined with other aspects of the game, adding more depth and customizability. No estimates for release date yet.
 - ***Other Areas of Improvement***: Control settings, accessibility settings, improving efficiency, saving and loading fiefs, resource/population graphs over time, steam achievements, family tree portraits, and more!
+<p align = "center">
+<img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/ZoomShot.PNG?raw=true" width = "600" style = "margin: 25px 25px 25px 25px">
+</p>
 
-
+## Design Thinking Experience
+### Background 
+I have been working in design thinking education for 3 years, developing my own tools for 1 and a half years. I originally started
+---
 <p align = "center">
 <img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/Scaffolding.png?raw=true" width = "500" style = "margin: 25px 25px 25px 25px">
 </p>
