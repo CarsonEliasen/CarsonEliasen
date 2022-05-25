@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/CarsonEliasen/CarsonEliasen/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to  the pages in your site, from the content in your Markdown files.
+## Fiefdom 🏰
+### Check out the Steam page [here](https://store.steampowered.com/app/1994110/Fiefdom/).
+### Summary
+Fiefdom is my early access medieval city management game. Keeping your subjects content becomes a lot more difficult when you have to keep the ambitions of your court in check. You manage an ever changing supply of resources like food, money, stability, and more!
 
-### Markdown
+### Design Philosophy
+While developing Fiefdom, I want to really focus on the player experience. Of course I have a million and half ideas about how I would develop Fiefdom, but a wide and diverse player base will be able to tell me what is actually enjoyable for the average player. Overall, I aim to bring my human-centered design experience to the forfront when working on Fiefdom.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Future Updates
+- ***Wildlife Update***: This will aim to make the area surrounding your fief feel more alive and also make you feel like you can have a more direct impact on the local fauna. Included with this update will also be a weather revamp to make seasons feel more unique. We are already developing this and should be released by the start of Q4 2022!
+- ***Military Update***: This will most likely be the largest of any of the major updates. It will focus on a warring system where you can both invade and get invaded by adjacent kingdoms. Combat simulations and conquering systems will allow you to grow your kingdom at a rapid pace or drive it into the ground. Depending on the depth of the update and the demands of life (we still have real jobs for now), we’re hoping to have this out some time in 2023.
+- ***Adventure Update***: This update will focus on expanding the family tree system that’s already in place by allowing family members to go on adventures to earn glory or disgrace themselves trying. Minigames may also be incorporated within this system to allow for more engaging gameplay during downtime. No estimates for release date yet.
+- ***Magic Update***: This will add a magic system that is intertwined with other aspects of the game, adding more depth and customizability. No estimates for release date yet.
+- ***Other Areas of Improvement***: Control settings, accessibility settings, improving efficiency, saving and loading fiefs, resource/population graphs over time, steam achievements, family tree portraits, and more!
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CarsonEliasen/CarsonEliasen/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
