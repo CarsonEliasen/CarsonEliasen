@@ -31,10 +31,10 @@ While developing Fiefdom, I want to really focus on the player experience. Of co
 Harmony is a two player board game I developed in the summer of 2019. It has been described as a mix between chess and connect 4. In the game, players try and make a pattern using both their pieces and their opponent's pieces on the board consisting of concentric circles. On their turn, a player can make 2 moves consisting of their pieces or 1 move consisting of their opponent's pieces. A full rulebook can be found [here](https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/documents/How%20to%20Play%20Harmony.pdf).
 
 <p align = "center">
-<img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/Harmony/light_sun.png?raw=true" width = "100" style = "margin: 25px 25px 25px 25px">
-<img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/Harmony/light_moon.png?raw=true" width = "100" style = "margin: 25px 25px 25px 25px">
-<img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/Harmony/dark_sun.png?raw=true" width = "100" style = "margin: 25px 25px 25px 25px">
-<img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/Harmony/dark_moon.png?raw=true" width = "100" style = "margin: 25px 25px 25px 25px">
+<img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/Harmony/light_sun.png?raw=true" width = "100" style = "margin: 25px 100px 25px 25px">
+<img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/Harmony/light_moon.png?raw=true" width = "100" style = "margin: 25px 100px 25px 25px">
+<img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/Harmony/dark_sun.png?raw=true" width = "100" style = "margin: 25px 25px 25px 100px">
+<img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/Harmony/dark_moon.png?raw=true" width = "100" style = "margin: 25px 25px 25px 100px">
 </p>
 
 ## Design Thinking Experience
