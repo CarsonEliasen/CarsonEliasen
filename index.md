@@ -48,7 +48,7 @@ I've been in design thinking education for three years, where I started as a tea
 
 I developed the pivot grid for my introduction to design thinking class to help them make unbiased decisions about pivoting their problems. The first step is to collect data about if people are actually experiencing an identified problem. A key aspect of this data that needs to be gathered is how passionate/engaged people are with the issue being discussed. Once the data is collected, it can be condensed into data themes. The themes *then* get placed onto the grid, which axes are labeled interviewee engagement and relevance to identified problem. Depending on where the majority of themes lie on the grid, the teams can then make an informed decision on pivoting or reframing their problem.
 
-<br></br>
+<br> </br>
 
 <img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/WhyTree.png?raw=true" height = "300" style = "margin: 25px 25px 25px 25px" align = "right">
 
@@ -58,13 +58,13 @@ I developed the pivot grid for my introduction to design thinking class to help 
 
   
 ---
-<br></br>
+<br> </br>
 
 # Art Gallery
 
 <img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/tensegrity_structures.png?raw=true" width = "545" style = "margin: 25px 25px 25px 25px" align = "left"> <img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/Scaffolding.png?raw=true" height = "545" style = "margin: 25px 25px 25px 25px" align = "right">
 
-<br></br>
+<br> </br>
 
 <img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/Everyday_Living.png?raw=true" style = "margin: 25px 25px 25px 25px" align = "center">
 
