@@ -1,5 +1,7 @@
+##
 ## Table of Contents
-[About Me](#about)
+
+[About Me](#about) </n>
 
 [Career and Education History](#career)
 
@@ -12,6 +14,7 @@
 [Design Thinking Experience](#DT)
 
 [Art Gallery](#gallery)
+##
 ##
 
 ![sunset_banner](/assets/images/sunset_banner.png)
