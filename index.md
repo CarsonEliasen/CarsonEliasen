@@ -12,36 +12,42 @@ I am finishing up my undergrad in psychology with a minor in applied data scienc
 </n>
 </n>
 
-## Fiefdom
-<img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/mybestsparkle.png?raw=true" width = "200" style = "margin: 25px 25px 25px 25px" align = "left">
-
-### Summary
-Fiefdom is my early access medieval city management game. Keeping your subjects content becomes a lot more difficult when you have to keep the ambitions of your court in check. Players must manage an ever changing supply of resources like food, money, stability, and more.
-
-#### Check out the Steam page for more information [here](https://store.steampowered.com/app/1994110/Fiefdom/).
-
-### Design Philosophy
-While developing Fiefdom, I want to really focus on the player experience. Of course I have a million and half ideas about how I would develop Fiefdom, but a wide and diverse player base will be able to tell me what is actually enjoyable for the average player. Overall, I aim to bring my human-centered design experience to the forfront when working on Fiefdom. This means doing several rounds of alpha testing and getting early access out as soon as possible.
-
-### Future Updates
-- ***Wildlife Update***: This will aim to make the area surrounding your fief feel more alive and also make you feel like you can have a more direct impact on the local fauna. Included with this update will also be a weather revamp to make seasons feel more unique. We are already developing this and should be released by the start of Q4 2022!
-- ***Military Update***: This will most likely be the largest of any of the major updates. It will focus on a warring system where you can both invade and get invaded by adjacent kingdoms. Combat simulations and conquering systems will allow you to grow your kingdom at a rapid pace or drive it into the ground. Depending on the depth of the update and the demands of life (we still have real jobs for now), we’re hoping to have this out some time in 2023.
-- ***Adventure Update***: This update will focus on expanding the family tree system that’s already in place by allowing family members to go on adventures to earn glory or disgrace themselves trying. Minigames may also be incorporated within this system to allow for more engaging gameplay during downtime. No estimates for release date yet.
-- ***Magic Update***: This will add a magic system that is intertwined with other aspects of the game, adding more depth and customizability. No estimates for release date yet.
-- ***Other Areas of Improvement***: Control settings, accessibility settings, improving efficiency, saving and loading fiefs, resource/population graphs over time, steam achievements, family tree portraits, and more!
+## Architect
+Architect is the working title for a project I'm aiming to release by the end of 2022. Inspired by the likes of M.C. Escher, Oskar Reutersvard, and Monument Valley, the goal is to produce a powerful tool for people to make impossible geometry. Although I hope it to be as engaging as a video game, I like to think of it more like a collaborative art piece. With the same basic rules, people will able to make intruiging and distinct art pieces to share with the world.
 <p align = "center">
-<img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/ZoomShot.PNG?raw=true" width = "600" style = "margin: 25px 25px 25px 25px">
+<em>Steam page coming soon!</em>
+</p>
+
+<p align = "center">
+<img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/Teal_Structure.PNG?raw=true" height = "200" style = "margin: 25px 25px 50px 50px" align = "left">
+<img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/Sigil.PNG?raw=true" height = "200" style = "margin: 25px 25px 50px 50px" align = "center">
+<img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/tower.PNG?raw=true" height = "200" style = "margin: 25px 25px 50px 50px" align = "right">
 </p>
 
 ## Harmony
 
-Harmony is a two player board game I developed in the summer of 2019. It has been described by players as a mix between chess and connect 4. While designing this game, I utilized a rapid prototyping approach to test and refine it to where it is today. In the game, players try and make a pattern using both their pieces and their opponent's pieces on the board consisting of concentric circles. On their turn, a player can make 2 moves consisting of their pieces or 1 move consisting of their opponent's pieces. A full rulebook can be found [here](https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/documents/How%20to%20Play%20Harmony.pdf).
+Harmony is a two player board game I developed in the summer of 2019. While designing this game, I utilized a rapid prototyping approach to test and refine it to where it is today. In the game, players try and make a pattern using both their pieces and their opponent's pieces on the board consisting of concentric circles. On their turn, a player can make 2 moves consisting of their pieces or 1 move consisting of their opponent's pieces. A full rulebook can be found [here](https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/documents/How%20to%20Play%20Harmony.pdf).
+
+Feedback from players has been extremely positive. People has been describe it as a mix between chess and connect 4 and they love that it is easy to learn, yet hard to master. I hope to release a digital version and perhaps even get it onto store shelves one day.
 
 <p align = "center">
 <img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/Harmony/light_sun.png?raw=true" width = "100" style = "margin: 25px 25px 25px 25px">
 <img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/Harmony/light_moon.png?raw=true" width = "100" style = "margin: 25px 25px 25px 25px">
 <img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/Harmony/dark_sun.png?raw=true" width = "100" style = "margin: 25px 25px 25px 25px">
 <img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/Harmony/dark_moon.png?raw=true" width = "100" style = "margin: 25px 25px 25px 25px">
+</p>
+
+## Fiefdom
+
+Fiefdom is my early access medieval city management game. Keeping your subjects content becomes a lot more difficult when you have to keep the ambitions of your court in check. Players must manage an ever changing supply of resources like food, money, stability, and more.
+
+<p align = "center">
+<a href="[url](https://store.steampowered.com/app/1994110/Fiefdom/)">
+<em> Check out the Steam page for more information here.</em>
+</p>
+
+<p align = "center">
+<img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/ZoomShot.PNG?raw=true" width = "300" style = "margin: 25px 25px 25px 25px">
 </p>
 
 ## Design Thinking Experience
