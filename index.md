@@ -1,4 +1,4 @@
-# Table of Contents
+## Table of Contents
 - [About Me](#about)
 - [Career and Education History](#career)
 - [Architect](#architect)
@@ -6,6 +6,7 @@
 - [Fiefdom](#fiefdom)
 - [Design Thinking Experience](#DT)
 - [Art Gallery](#gallery)
+##
 
 ![sunset_banner](/assets/images/sunset_banner.png)
 
