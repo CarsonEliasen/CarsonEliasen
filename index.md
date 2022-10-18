@@ -24,7 +24,7 @@ My name is Carson Eliasen and I am a hobby game developer and design thinking ed
 
 I am finishing up my undergrad in psychology with a minor in applied data science at Colorado State University (CSU). I've worked for 3 years in design thinking education and am looking to explore designing for human-computer interaction. Eventually, I'd love to get my graduate degree in computer graphics processing while also bolstering my design thinking background. Generally I'm a dynamic problem solver that loves to dip my cup into as many disciplines as I can, and then integrate them all together.
 
-In my free time I love listening to music on high fidelity set ups, drinking fancy teas, painting, and playing video and board games. I'm always looking to make a new friend and love to hang out at coffee shops with anyone and everyone. 
+In my free time I love listening to music on high fidelity set ups, drinking fancy teas, painting, and playing video and card games. I'm always looking to make a new friend and love to hang out at coffee shops with anyone and everyone. 
 
 
 ## Career and Education History <a name = "career"></a>
