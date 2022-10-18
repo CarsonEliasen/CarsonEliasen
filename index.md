@@ -39,7 +39,9 @@ In my free time I love listening to music on high fidelity set ups, drinking fan
 
 <p align = "center">
 <em>Steam page coming soon!</em>
-<a href="https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/Architect.zip">Download a demo here!</a>
+ </p>
+<p align = "center">
+<em><a href="https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/Architect.zip">Download a demo here!</a></em>
 </p>
 
 <p align = "center">
