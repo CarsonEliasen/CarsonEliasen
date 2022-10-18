@@ -22,9 +22,9 @@
 ## About Me <a name = "about"></a><img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/headshot_RDC.jpg?raw=true" width = "250" height  = "250" align = "right" style = "margin: 25px 25px 25px 25px">
 My name is Carson Eliasen and I am a hobby game developer and design thinking educator from Longmont, CO.
 
-I am finishing up my undergrad in psychology with a minor in applied data science at Colorado State University (CSU). I've worked for 3 years in design thinking education and am looking to explore designing for human-computer interaction. Eventually, I'd love to get my graduate degree in computer graphics processing while also bolstering my design thinking background. Generally I'm a dynamic problem solver that loves to dip my cup into as many disciplines as I can, and then integrate them all together.
+I am finishing up my undergrad in psychology with a minor in applied data science at Colorado State University (CSU). I've worked for 3 years in design thinking education and am looking to explore designing for human-computer interaction. Eventually, I'd love to get my graduate degree in computer graphics processing while also bolstering my design thinking background. Generally I'm a dynamic problem solver that loves to dip my cup into as many disciplines as I can, and then integrate them all together in the most efficient and beautiful way possible.
 
-In my free time I love listening to music on high fidelity set ups, drinking fancy teas, painting, and playing video and card games. I'm always looking to make a new friend and love to hang out at coffee shops with anyone and everyone. 
+In my free time I love listening to music on high fidelity set ups, drinking fancy teas, painting, and playing all types of games. I'm always looking to make a new friend and love to hang out at coffee shops with anyone and everyone. I also have aphantasia, which with the inabillity to produce sensory perception within the mind (i.e. I'm blind in my mind's eye)!
 
 
 ## Career and Education History <a name = "career"></a>
