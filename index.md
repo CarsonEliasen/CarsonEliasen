@@ -6,7 +6,9 @@ I am finishing up my undergrad in psychology with a minor in applied data scienc
 
 
 ## Career and Education History
-<img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/career_history_10_2022.PNG?raw=true" height = "150" style = "margin: 25px 25px 50px 50px" align = "left">
+<p align = "center">
+<img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/career_history_10_2022.PNG?raw=true" height = "133" style = "margin: 25px 25px 50px 50px" align = "center">
+</p>
 </n>
 </n>
 
