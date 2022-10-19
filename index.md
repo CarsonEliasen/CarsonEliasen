@@ -35,7 +35,7 @@ In my free time I love listening to music on high fidelity set ups, drinking fan
 </n>
 
 ## <|> <a name = "architect"></a>
-<|> is the working title for a project I'm aiming to release by the end of 2022. Inspired by the likes of M.C. Escher, Oskar Reutersvard, and Monument Valley, the goal is to produce a powerful tool for people to make impossible geometry. Although I hope it to be as engaging as a video game, I like to think of it more like a collaborative art piece. With the same basic rules, people will able to make intruiging and distinct art pieces to share with the world.
+<|> is a project I'm aiming to release by the end of 2022. Inspired by the likes of M.C. Escher, Oskar Reutersvard, and Monument Valley, the goal is to produce a powerful tool for people to make impossible geometry. Although I hope it to be as engaging as a video game, I like to think of it more like an interactive art piece. With the same basic rules, people will able to make intruiging and distinct art pieces to share with the world.
 
 <p align = "center">
 <em>Steam page coming soon!</em>
