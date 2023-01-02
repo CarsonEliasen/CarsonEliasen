@@ -1,7 +1,6 @@
 ### My name is Carson Eliasen and I am a hobby game developer and design thinking instructor from Fort Collins, CO. 
 ##
-### I am finishing up my undergrad in psychology with a minor in applied data science
-### I've worked a lot in design thinking and am looking to explore designing for human-computer interaction
+### I am a confident and flexible problem solver that loves to learn about human behavior, computer science, and all things data analysis!
 
 <!--
 **CarsonEliasen/CarsonEliasen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
