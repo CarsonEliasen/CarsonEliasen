@@ -37,13 +37,13 @@ In my free time I love listening to music on high fidelity set ups, drinking fan
 ## <|> <a name = "architect"></a>
 <|> is a project I'm aiming to release in the next couple of months. Inspired by the likes of M.C. Escher, Oskar Reutersvard, and Monument Valley, the goal is to produce a powerful tool for people to make impossible geometry. Although I hope it to be as engaging as a video game, I like to think of it more like an interactive art piece. With the same basic rules, people will able to make intruiging and distinct art pieces to share with the world.
 
-<p align = "center">
-<em>Steam page coming soon!</em>
- </p>
-<p align = "center">
-<em><a href="https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/Architect.zip">Download a demo here!</a></em>
-</p>
 
+<em> [Check out the Steam page for more information](https://store.steampowered.com/app/2192280/Architect/)</em>
+
+or
+
+<em><a href="https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/Architect.zip">Download a demo</a></em>
+<p></p>
 <p align = "center">
 <img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/Teal_Structure.PNG?raw=true" height = "200" style = "margin: 25px 25px 50px 50px" align = "left">
 <img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/Sigil.PNG?raw=true" height = "200" style = "margin: 25px 25px 50px 50px" align = "center">
