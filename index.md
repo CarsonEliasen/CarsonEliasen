@@ -31,6 +31,8 @@ In my free time I love listening to music on high fidelity set ups, drinking fan
 <p align = "center">
 <img src = "https://github.com/CarsonEliasen/CarsonEliasen/blob/gh-pages/assets/images/career_history_10_2022.PNG?raw=true" height = "133" style = "margin: 25px 25px 50px 50px" align = "center">
 </p>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="carson-eliasen-59880a172" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/carson-eliasen-59880a172?trk=profile-badge">Check out my LinkedIn!</a></div>
+              
 </n>
 </n>
 
