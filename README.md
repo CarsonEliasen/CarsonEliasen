@@ -1,4 +1,4 @@
-### My name is Carson Eliasen and I am a hobby game developer and design thinking instructor from Fort Collins, CO. 
+### My name is Carson Eliasen and I am a hobby game developer and design thinking instructor from Longmont, CO. 
 ##
 ### I am a confident and flexible problem solver that loves to learn about human behavior, computer science, and all things data analysis!
 
